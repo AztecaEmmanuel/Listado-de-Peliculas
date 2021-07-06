@@ -10,6 +10,6 @@
 
 - [x] [OMDb API](https://www.omdbapi.com/ "OMDb API")
 
-## Vista previa del la web
+## Vista previa de la web
 
 ![Vista Previa](./img/vista-previa.png "Vista previa")
