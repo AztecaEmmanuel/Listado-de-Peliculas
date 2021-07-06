@@ -1,6 +1,4 @@
-# Clon de amazon Basico - Frontend
-
-    Lostado de peliculas
+# Listado de peliculas
 
 ## Tecnologias utilizadas:
 
